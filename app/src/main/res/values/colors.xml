@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Purple80">#ff409cff</color>
+    <color name="PurpleGrey80">#ff222327</color>
+    <color name="BottomBarColor80">#ff222327</color>
+    <color name="ErrorColor80">#ffff6961</color>
+    <color name="IosIconColor80">#ff409cff</color>
+    <color name="PureColorIos80">#ff000000</color>
+    <color name="CategoryItemColor1_80">#ff66d4cf</color>
+    <color name="CategoryItemColor2_80">#ffda8fff</color>
+    <color name="LampColor80">#ffffd426</color>
+    <color name="FavoriteIcon80">#ffd70015</color>
+
+    <color name="Purple40">#ff007aff</color>
+    <color name="PurpleGrey40">#ff007aff</color>
+    <color name="BottomBarColor40">#fff2f5fc</color>
+    <color name="ErrorColor40">#ffd70015</color>
+    <color name="IosIconColor40">#ff007aff</color>
+    <color name="PureColorIos40">#FFFFFFFF</color>
+    <color name="CategoryItemColor1_40">#ff0c817b</color>
+    <color name="CategoryItemColor2_40">#ff8944ab</color>
+    <color name="LampColor40">#ffff9500</color>
+    <color name="FavoriteIcon40">#ffd70015</color>
+
+</resources>
