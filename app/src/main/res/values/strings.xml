@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name">Satonda</string>
-    <string name="VERSION_NUMBER">1.0.2</string>
+    <string name="VERSION_NUMBER">2.1.2</string>
 
     <string name="bottom_icon">bottom icon</string>
     <string name="no">No</string>
