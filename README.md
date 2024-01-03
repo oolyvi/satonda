@@ -2,7 +2,7 @@
 
 # Satonda  
   
-### Productivity app for Tasks and Notes app that prioritizes your privacy with a local storage solution
+Productivity app for Tasks and Notes app that prioritizes your privacy with a local storage solution
 
 <p align="center">
   <a href="https://mit-license.org/"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue"/></a>
