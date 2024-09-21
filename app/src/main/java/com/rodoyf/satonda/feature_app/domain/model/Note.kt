@@ -22,7 +22,8 @@ data class Note(
     companion object {
         val noteColors = listOf(
             Box1, Box2, Box4,
-            Box5, Box6, Box7
+            Box5, Box6, 
+Box7
         )
     }
 }
